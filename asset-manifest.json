@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/laundry-shop-leysin/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/laundry-shop-leysin/static/js/main.f095a987.chunk.js",
+    "main.js.map": "/laundry-shop-leysin/static/js/main.f095a987.chunk.js.map",
+    "runtime-main.js": "/laundry-shop-leysin/static/js/runtime-main.7dff9352.js",
+    "runtime-main.js.map": "/laundry-shop-leysin/static/js/runtime-main.7dff9352.js.map",
+    "static/js/2.a48b19b3.chunk.js": "/laundry-shop-leysin/static/js/2.a48b19b3.chunk.js",
+    "static/js/2.a48b19b3.chunk.js.map": "/laundry-shop-leysin/static/js/2.a48b19b3.chunk.js.map",
+    "static/js/3.fe3e7673.chunk.js": "/laundry-shop-leysin/static/js/3.fe3e7673.chunk.js",
+    "static/js/3.fe3e7673.chunk.js.map": "/laundry-shop-leysin/static/js/3.fe3e7673.chunk.js.map",
+    "index.html": "/laundry-shop-leysin/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/laundry-shop-leysin/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a48b19b3.chunk.js.LICENSE.txt": "/laundry-shop-leysin/static/js/2.a48b19b3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/laundry-shop-leysin/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dff9352.js",
+    "static/js/2.a48b19b3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f095a987.chunk.js"
+  ]
+}
