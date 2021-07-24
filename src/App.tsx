@@ -1,11 +1,12 @@
-import './App.css';
+import './App.scss';
+import Header from './components/Header';
+import Title from './components/Title';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>Laundry Shop Leysin</p>
-      </header>
+      <Header />
+      <Title />
     </div>
   );
 }

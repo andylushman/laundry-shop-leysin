@@ -1,0 +1,32 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  color: #eb8729;
+  margin-bottom: 50px;
+  font-size: 0.9rem;
+  &-left-container {
+    & div {
+      display: flex;
+      align-items: center;
+      & span {
+        margin-left: 5px;
+      }
+    }
+  }
+  &-right-container {
+    display: flex;
+    align-items: center;
+    & span {
+      margin-left: 5px;
+    }
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .Header {
+    flex-direction: column;
+    margin-bottom: 30px;
+    font-size: 0.75rem;
+  }
+}
